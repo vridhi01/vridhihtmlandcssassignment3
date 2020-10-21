@@ -1,0 +1,32 @@
+.stylediv {
+    padding: 20px;
+    background-color: #A0A0A0;
+    width: 50%;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+}
+
+.btn1 {
+    background: linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(42, 176, 225, 1) 1%, rgba(42, 176, 225, 1) 45%, rgba(42, 176, 225, 1) 85%);
+    padding: 12px 31px;
+    border-radius: 32px;
+    color: #fff;
+    background-color: #1976d2;
+    font-size: 15px;
+    border: 0;
+    cursor: pointer;
+    margin: 71px 40px -0px 0px;
+}
+
+.btn2 {
+    background: linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(42, 176, 225, 1) 1%, rgba(42, 176, 225, 1) 45%, rgba(42, 176, 225, 1) 85%);
+    padding: 12px 31px;
+    border-radius: 32px;
+    color: #fff;
+    background-color: #1976d2;
+    font-size: 15px;
+    border: 0;
+    cursor: pointer;
+}
